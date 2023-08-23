@@ -8,5 +8,5 @@ Html,Css ve Scss kullanılarak geliştirilmiştir.
 
 <h2> Çalışır Halinin Ekran Kaydı <h2/>
 
-![](arabulue.gif
-)
+![](arabulue.gif)
+
